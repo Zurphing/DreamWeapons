@@ -2,18 +2,6 @@ title: Dream Weapons over Struggle Weapons
 originalAuthor: Zurphing
 description: Swaps Struggle Weapons with their Dream Weapon counterparts.
 assets:
-- name: raw/obj/W_EX010_V0.a.us
-  method: copy
-  source:
-  - name: raw/obj/W_EX010_V0.a.us
-- name: raw/obj/W_EX010_W0.a.us
-  method: copy
-  source:
-  - name: raw/obj/W_EX010_W0.a.us
-- name: raw/obj/W_EX010_U0.a.us
-  method: copy
-  source:
-  - name: raw/obj/W_EX010_U0.a.us
 - name: itempic\item-065.imd
   method: copy
   source:
